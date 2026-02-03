@@ -136,10 +136,6 @@ Final Scanner Check
 
 Participant Practice (Before Scan)
 
-Have participants complete the online practice task:
-
-https://gradcpt.org/one-time-task/WXkOQm49GVreClFvNiTv
-
 Read instructions aloud and answer questions.
 Participants may repeat the practice if desired.
 
